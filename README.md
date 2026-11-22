@@ -1,1 +1,2 @@
 # FRA-UAS-5-C-MCP-Network-Controller
+An MCP-based server that provides an AI-powered interface to interact with and manage a mobile telecommunications network. It exposes network operations such as monitoring network status, managing subscribers, retrieving metrics, performing diagnostics, and modifying configurations through MCP tools. This enables MCP-compatible AI agents to monitor, control, and troubleshoot the network using natural language.
